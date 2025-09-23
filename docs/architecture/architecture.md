@@ -24,10 +24,40 @@ A solução é composta por um cliente Web responsivo, um backend com API de apl
 
 ## 4. Diagrama de arquitetura
 ```mermaid
-
+flowchart TB
+ subgraph Cliente["Cliente"]
+        WEB["Web responsivo"]
+  end
+ subgraph Aplicacao["Aplicacao"]
+        CAPTCHA["Validação humana"]
+        API["API"]
+        JOB["Serviço de ingestão"]
+  end
+ subgraph Dados["Dados"]
+        REDIS[("Redis")]
+        PG[("PostgreSQL")]
+  end
+ subgraph Externo["Externo"]
+        OM["Open Meteo"]
+  end
+    WEB --> CAPTCHA
+    CAPTCHA --> API
+    API <--> REDIS & PG
+    JOB --> OM & PG & REDIS
+    API --> WEB
+     WEB:::client
+     CAPTCHA:::app
+     API:::app
+     JOB:::app
+     REDIS:::data
+     PG:::data
+     OM:::ext
+    classDef client fill:#eef7ff,stroke:#3b82f6,stroke-width:1px,color:#0b2e59
+    classDef app fill:#f5f3ff,stroke:#7c3aed,stroke-width:1px,color:#2d0a57
+    classDef data fill:#ecfdf5,stroke:#059669,stroke-width:1px,color:#064e3b
+    classDef ext fill:#fff7ed,stroke:#ea580c,stroke-width:1px,color:#7c2d12
 ```
-
-
+## 5. Decisões técnicas e justificativas
 
 | Decisão                                | Opções consideradas                      | Justificativa                                                                              | Impacto                                                     |
 | -------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |

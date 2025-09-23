@@ -9,6 +9,13 @@ Entregar uma solução acessível para consulta de previsão de chuvas por bairr
 ##  Problema e justificativa
 Chuvas intensas em Fortaleza geram transtornos à mobilidade e ao cotidiano. Cidadãos precisam de informações locais, simples e rápidas, para planejar deslocamentos e atividades.
 
+##  Relação com o ODS 11
+O projeto **"Será que chove?"** está alinhado ao **ODS 11 – Cidades e comunidades sustentáveis**, da Agenda 2030 da ONU, pois a aplicação contribui para cidades mais seguras e resilientes ao:
+- Fornecer previsões de chuva por bairro, permitindo melhor planejamento de deslocamentos.  
+- Apoiar a redução de riscos em áreas vulneráveis a alagamentos.  
+- Tornar a informação acessível em linguagem simples e visual, inclusiva para todos os cidadãos.  
+- Reforçar a capacidade das comunidades de se prepararem para eventos climáticos extremos.  
+
 ##  Escopo
 O sistema entregará:
 - Acesso à previsão de chuva por bairro de Fortaleza a partir de lista oficial.  

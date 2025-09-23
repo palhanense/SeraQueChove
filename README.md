@@ -4,16 +4,17 @@ Aplicação Web responsiva que fornece previsões de chuva por bairro em Fortale
 O sistema apresenta respostas textuais simples para três janelas de tempo, 6h, 12h e 24h, reforçadas com cores que indicam o nível de probabilidade.
 
 ##  Objetivo
-Entregar uma solução acessível para consulta de previsão de chuvas por bairro, em linguagem clara e visual minimalista, com foco em texto.
+Entregar uma solução acessível para consulta de previsão de chuvas por bairro, em linguagem simples, com foco em texto, para os moradores de Fortaleza.
 
 ##  Problema e justificativa
-Chuvas intensas em Fortaleza geram transtornos à mobilidade e ao cotidiano. Cidadãos precisam de informações locais, simples e rápidas, sem necessidade de gráficos, para planejar deslocamentos e atividades.
+Chuvas intensas em Fortaleza geram transtornos à mobilidade e ao cotidiano. Cidadãos precisam de informações locais, simples e rápidas, para planejar deslocamentos e atividades.
 
 ##  Escopo
-- Consulta de previsão por bairro a partir de lista oficial.
-- Exibição textual das janelas de 6h, 12h e 24h.
-- Reforço visual por cor conforme probabilidade.
-- Validação humana leve antes do processamento.
+O sistema entregará:
+- Acesso à previsão de chuva por bairro de Fortaleza a partir de lista oficial.  
+- Exibição em texto simples das janelas de previsão (6h, 12h e 24h).  
+- Destaque visual por cores de fundo de acordo com o nível de probabilidade.  
+- Mecanismo de verificação humana simplificado antes do acesso à previsão.  
 
 ##  Arquitetura
 - Cliente, Web responsivo, interface textual, cores por nível de risco.

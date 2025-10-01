@@ -122,10 +122,12 @@ gantt
 ```
 
 ##  Equipe
-- Integrante 1, função.  
-- Integrante 2, função.  
-- Integrante 3, função.  
-- Integrante 4, função.  
+Emerson Leonardo de Lima Pinto - Gerente de projeto
+Geovani Alves Saraiva - Backend
+Vitor Alexandre Melo Costa - backend
+Diego Ferreira Santiago - Frontend
+Fabrício Silva dos Santos - Frontend
+Yngrid santos Holanda  - Backend
 
 ##  Contexto acadêmico
 Projeto do curso de **Análise e Desenvolvimento de Sistemas da Unifor**, disciplina **N705 – Projeto Aplicado Multiplataforma, etapa 1**.

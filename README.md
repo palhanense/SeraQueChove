@@ -84,9 +84,9 @@ Para mais detalhes, consulte a pasta `validation/`.
 
 ##  Equipe de Desenvolvimento
 
-**Emerson Leonardo de Lima Pinto - 2327093**
-**Geovani Alves Saraiva - 2327339**
-**Vitor Alexandre Melo Costa - 2326346**
-**Diego Ferreira Santiago - 2327166**
-**Fabrício Silva dos Santos - 2318148**
-**Yngrid Santos Holanda – 2317668**
+* **Emerson Leonardo de Lima Pinto - 2327093**
+* **Geovani Alves Saraiva - 2327339**
+* **Vitor Alexandre Melo Costa - 2326346**
+* **Diego Ferreira Santiago - 2327166**
+* **Fabrício Silva dos Santos - 2318148**
+* **Yngrid Santos Holanda – 2317668**

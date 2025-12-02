@@ -5,7 +5,7 @@ Desenvolvida na disciplina **Projeto Aplicado Multiplataforma – Etapa 2 (N708)
 
 ---
 
-## 🧭 Objetivo
+##  Objetivo
 
 Oferecer previsões locais e acessíveis, utilizando **linguagem simples e visual intuitivo**, com cores que representam a **probabilidade de chuva**.  
 O sistema contribui para o **ODS 11 – Cidades e Comunidades Sustentáveis**, promovendo acesso à informação climática de forma prática e inclusiva.
@@ -63,14 +63,14 @@ O sistema segue uma arquitetura cliente-servidor simples:
 
 ---
 
-## 🚀 Acesso ao Sistema
+##  Acesso ao Sistema
 
 *   **Ambiente de Desenvolvimento:** O sistema foi projetado para rodar localmente. Siga as instruções de execução acima.
 *   **Credenciais:** Não é necessário login/senha para acesso, o sistema é aberto.
 
 ---
 
-## 👥 Validação com Público-Alvo
+##  Validação com Público-Alvo
 
 A validação foi realizada com moradores de bairros de Fortaleza, focando na usabilidade e clareza das informações.
 
@@ -82,7 +82,7 @@ Para mais detalhes, consulte a pasta `validation/`.
 
 ---
 
-## 👨‍💻 Equipe de Desenvolvimento
+##  Equipe de Desenvolvimento
 
 **Emerson Leonardo de Lima Pinto - 2327093**
 **Geovani Alves Saraiva - 2327339**

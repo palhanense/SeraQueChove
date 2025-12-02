@@ -1,4 +1,4 @@
-# 🌦️ Será que Chove?
+#  Será que Chove?
 
 Aplicação web responsiva que fornece **previsões de chuva por bairro em Fortaleza (CE)**.  
 Desenvolvida na disciplina **Projeto Aplicado Multiplataforma – Etapa 2 (N708)**.
@@ -12,17 +12,17 @@ O sistema contribui para o **ODS 11 – Cidades e Comunidades Sustentáveis**, p
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
-- 🔍 Campo de busca com **autocompletar** de bairros  
-- 🌦️ Previsão em **três janelas de tempo** (6h, 12h e 24h)  
-- 🗺️ Exibição de **latitude e longitude** do bairro consultado  
-- 🎨 **Cores e mensagens** variam conforme o nível de probabilidade de chuva  
-- 💬 **Feedback real de usuários** obtido por meio de formulário de validação  
+-  Campo de busca com **autocompletar** de bairros  
+-  Previsão em **três janelas de tempo** (6h, 12h e 24h)  
+-  Exibição de **latitude e longitude** do bairro consultado  
+-  **Cores e mensagens** variam conforme o nível de probabilidade de chuva  
+-  **Feedback real de usuários** obtido por meio de formulário de validação  
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 **Frontend:**  
 - HTML5  
@@ -42,18 +42,17 @@ O sistema contribui para o **ODS 11 – Cidades e Comunidades Sustentáveis**, p
 
 ---
 
-## 🧰 Execução
+##  Execução
 
-### 🔹 Backend
+###  Backend
 npm start
-```
 
-### 🔹 Frontend
+###  Frontend
 Basta abrir o arquivo `frontend/web/src/index.html` em um navegador moderno.
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 O sistema segue uma arquitetura cliente-servidor simples:
 
@@ -85,9 +84,9 @@ Para mais detalhes, consulte a pasta `validation/`.
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
-*   **Diego Ferreira Santiago**
-*   **Emerson Leonardo de Lima Pinto**
-*   **Geovani Alves Saraiva**
-*   **Vitor Alexandre Melo Costa**
-*   **Fabrício Silva dos Santos**
-*   **Yngrid Santos Holanda**
+**Emerson Leonardo de Lima Pinto - 2327093**
+**Geovani Alves Saraiva - 2327339**
+**Vitor Alexandre Melo Costa - 2326346**
+**Diego Ferreira Santiago - 2327166**
+**Fabrício Silva dos Santos - 2318148**
+**Yngrid Santos Holanda – 2317668**

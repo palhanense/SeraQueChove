@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand"
+
+  },
+  "keywords": [],
+  "author": "Diego Ferreira Santiago, Emerson Leonardo de Lima Pinto, Geovani Alves Saraiva, Vitor Alexandre Melo Costa, Fabrício Silva dos Santos",
+  "license": "ISC",
+  "description": "Backend do projeto 'Será que Chove?' para consulta de previsão de chuva por bairro em Fortaleza.",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-node": "^30.2.0",
+    "supertest": "^7.1.4"
+  },
+  "jest": {
+  "testEnvironment": "node",
+  "transform": {}
+}
+
+}

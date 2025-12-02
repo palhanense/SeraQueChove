@@ -1,0 +1,604 @@
+{
+  "bairros": [
+    {
+      "nome": "Jardim Guanabara",
+      "latitude": -3.7239106,
+      "longitude": -38.5902646
+    },
+    {
+      "nome": "Vila Velha",
+      "latitude": -3.7124689,
+      "longitude": -38.6044591
+    },
+    {
+      "nome": "Barra do Ceará",
+      "latitude": -3.7044722,
+      "longitude": -38.5812573
+    },
+    {
+      "nome": "Cristo Redentor",
+      "latitude": -3.7076431,
+      "longitude": -38.5650444
+    },
+    {
+      "nome": "Pirambu",
+      "latitude": -3.7102184,
+      "longitude": -38.5534973
+    },
+    {
+      "nome": "Carlito Pamplona",
+      "latitude": -3.7182552,
+      "longitude": -38.5559196
+    },
+    {
+      "nome": "Jacarecanga",
+      "latitude": -3.7218504,
+      "longitude": -38.5416884
+    },
+    {
+      "nome": "Álvaro Weyne",
+      "latitude": -3.7156132,
+      "longitude": -38.5679861
+    },
+    {
+      "nome": "Floresta",
+      "latitude": -3.7208413,
+      "longitude": -38.5764226
+    },
+    {
+      "nome": "Jardim Iracema",
+      "latitude": -3.7213636,
+      "longitude": -38.5838061
+    },
+    {
+      "nome": "Aldeota",
+      "latitude": -3.7341528,
+      "longitude": -38.5096997
+    },
+    {
+      "nome": "Meireles",
+      "latitude": -3.7278218,
+      "longitude": -38.5003721
+    },
+    {
+      "nome": "De Lourdes",
+      "latitude": -3.740793,
+      "longitude": -38.4630398
+    },
+    {
+      "nome": "Papicu",
+      "latitude": -3.7395449,
+      "longitude": -38.4753765
+    },
+    {
+      "nome": "Varjota",
+      "latitude": -3.7343231,
+      "longitude": -38.4860733
+    },
+    {
+      "nome": "Cais do Porto",
+      "latitude": -3.7148542,
+      "longitude": -38.4706071
+    },
+    {
+      "nome": "Mucuripe",
+      "latitude": -3.7257065,
+      "longitude": -38.4848018
+    },
+    {
+      "nome": "Vicente Pinzon",
+      "latitude": -3.7281452,
+      "longitude": -38.4697385
+    },
+    {
+      "nome": "Dionísio Torres",
+      "latitude": -3.7480271,
+      "longitude": -38.5064872
+    },
+    {
+      "nome": "Joaquim Távora",
+      "latitude": -3.7446816,
+      "longitude": -38.5186105
+    },
+    {
+      "nome": "São João do Tauape",
+      "latitude": -3.7573612,
+      "longitude": -38.5106394
+    },
+    {
+      "nome": "Antônio Bezerra",
+      "latitude": -3.741003,
+      "longitude": -38.5913217
+    },
+    {
+      "nome": "Olavo Oliveira",
+      "latitude": -3.7300601,
+      "longitude": -38.5902436
+    },
+    {
+      "nome": "Quintino Cunha",
+      "latitude": -3.7293157,
+      "longitude": -38.6016063
+    },
+    {
+      "nome": "Padre Andrade",
+      "latitude": -3.734669,
+      "longitude": -38.5794766
+    },
+    {
+      "nome": "Presidente Kennedy",
+      "latitude": -3.7332169,
+      "longitude": -38.5700154
+    },
+    {
+      "nome": "Ellery",
+      "latitude": -3.723758,
+      "longitude": -38.5632992
+    },
+    {
+      "nome": "Farias Brito",
+      "latitude": -3.7296496,
+      "longitude": -38.5430883
+    },
+    {
+      "nome": "Monte Castelo",
+      "latitude": -3.7260186,
+      "longitude": -38.5502355
+    },
+    {
+      "nome": "São Gerardo",
+      "latitude": -3.7302419,
+      "longitude": -38.5575276
+    },
+    {
+      "nome": "Amadeu Furtado",
+      "latitude": -3.7428417,
+      "longitude": -38.5601092
+    },
+    {
+      "nome": "Parque Araxá",
+      "latitude": -3.7358577,
+      "longitude": -38.5477178
+    },
+    {
+      "nome": "Parquelândia",
+      "latitude": -3.7377987,
+      "longitude": -38.5590543
+    },
+    {
+      "nome": "Rodolfo Teófilo",
+      "latitude": -3.746289,
+      "longitude": -38.5499015
+    },
+    {
+      "nome": "Benfica",
+      "latitude": -3.741486,
+      "longitude": -38.538855
+    },
+    {
+      "nome": "Fátima",
+      "latitude": -3.7517525,
+      "longitude": -38.5290848
+    },
+    {
+      "nome": "José Bonifácio",
+      "latitude": -3.7394569,
+      "longitude": -38.5285591
+    },
+    {
+      "nome": "Bom Futuro",
+      "latitude": -3.7578774,
+      "longitude": -38.5462236
+    },
+    {
+      "nome": "Damas",
+      "latitude": -3.7530505,
+      "longitude": -38.5502204
+    },
+    {
+      "nome": "Jardim América",
+      "latitude": -3.7523233,
+      "longitude": -38.5423767
+    },
+    {
+      "nome": "Montese",
+      "latitude": -3.7640575,
+      "longitude": -38.5508418
+    },
+    {
+      "nome": "Itaoca",
+      "latitude": -3.7725555,
+      "longitude": -38.5550596
+    },
+    {
+      "nome": "Parangaba",
+      "latitude": -3.7771465,
+      "longitude": -38.5671367
+    },
+    {
+      "nome": "Vila Peri",
+      "latitude": -3.7883602,
+      "longitude": -38.5808865
+    },
+    {
+      "nome": "Aeroporto",
+      "latitude": -3.7801787,
+      "longitude": -38.5415167
+    },
+    {
+      "nome": "Parreão",
+      "latitude": -3.7596291,
+      "longitude": -38.5376241
+    },
+    {
+      "nome": "Vila União",
+      "latitude": -3.7673154,
+      "longitude": -38.5355598
+    },
+    {
+      "nome": "Bom Jardim",
+      "latitude": -3.7932671,
+      "longitude": -38.6001372
+    },
+    {
+      "nome": "Bonsucesso",
+      "latitude": -3.7804817,
+      "longitude": -38.5876037
+    },
+    {
+      "nome": "Granja Lisboa",
+      "latitude": -3.7873099,
+      "longitude": -38.61772
+    },
+    {
+      "nome": "Granja Portugal",
+      "latitude": -3.7822084,
+      "longitude": -38.5997833
+    },
+    {
+      "nome": "Siqueira",
+      "latitude": -3.8112294,
+      "longitude": -38.6185398
+    },
+    {
+      "nome": "Aerolândia",
+      "latitude": -3.7748893,
+      "longitude": -38.5135783
+    },
+    {
+      "nome": "Alto da Balança",
+      "latitude": -3.7660092,
+      "longitude": -38.5128107
+    },
+    {
+      "nome": "Cidade dos Funcionários",
+      "latitude": -3.7947477,
+      "longitude": -38.4981434
+    },
+    {
+      "nome": "Jardim das Oliveiras",
+      "latitude": -3.7822009,
+      "longitude": -38.5032877
+    },
+    {
+      "nome": "Parque Manibura",
+      "latitude": -3.7916672,
+      "longitude": -38.4861101
+    },
+    {
+      "nome": "Cambeba",
+      "latitude": -3.8066024,
+      "longitude": -38.4851322
+    },
+    {
+      "nome": "Messejana",
+      "latitude": -3.8266615,
+      "longitude": -38.4935167
+    },
+    {
+      "nome": "Parque Iracema",
+      "latitude": -3.8063433,
+      "longitude": -38.4958677
+    },
+    {
+      "nome": "Curió",
+      "latitude": -3.8224706,
+      "longitude": -38.477625
+    },
+    {
+      "nome": "Guajeru",
+      "latitude": -3.8321351,
+      "longitude": -38.4791348
+    },
+    {
+      "nome": "José de Alencar",
+      "latitude": -3.8100084,
+      "longitude": -38.4726224
+    },
+    {
+      "nome": "Lagoa Redonda",
+      "latitude": -3.825306,
+      "longitude": -38.4605115
+    },
+    {
+      "nome": "Paupina",
+      "latitude": -3.8605193,
+      "longitude": -38.4922174
+    },
+    {
+      "nome": "São Bento",
+      "latitude": -3.856407,
+      "longitude": -38.4822866
+    },
+    {
+      "nome": "Praia do Futuro I",
+      "latitude": -3.7398076,
+      "longitude": -38.456122
+    },
+    {
+      "nome": "Praia do Futuro II",
+      "latitude": -3.7622082,
+      "longitude": -38.4448972
+    },
+    {
+      "nome": "Cidade 2000",
+      "latitude": -3.7501025,
+      "longitude": -38.4716231
+    },
+    {
+      "nome": "Cocó",
+      "latitude": -3.7481588,
+      "longitude": -38.4808581
+    },
+    {
+      "nome": "Manuel Dias Branco",
+      "latitude": -3.7583711,
+      "longitude": -38.4662952
+    },
+    {
+      "nome": "Engenheiro Luciano Cavalcante",
+      "latitude": -3.7778673,
+      "longitude": -38.4893772
+    },
+    {
+      "nome": "Guararapes",
+      "latitude": -3.7633869,
+      "longitude": -38.4886693
+    },
+    {
+      "nome": "Salinas",
+      "latitude": -3.7640639,
+      "longitude": -38.5001359
+    },
+    {
+      "nome": "Edson Queiroz",
+      "latitude": -3.7777657,
+      "longitude": -38.4623898
+    },
+    {
+      "nome": "Sabiaguaba",
+      "latitude": -3.7985716,
+      "longitude": -38.429758
+    },
+    {
+      "nome": "Sapiranga / Coité",
+      "latitude": -3.7969353,
+      "longitude": -38.4658449
+    },
+    {
+      "nome": "Raquel de Queiroz",
+      "latitude": -3.8033567,
+      "longitude": -38.6171539
+    },
+    {
+      "nome": "Itaperi",
+      "latitude": -3.7890448,
+      "longitude": -38.5506888
+    },
+    {
+      "nome": "Serrinha",
+      "latitude": -3.7849089,
+      "longitude": -38.5424548
+    },
+    {
+      "nome": "Boa Vista",
+      "latitude": -3.806742,
+      "longitude": -38.5216794
+    },
+    {
+      "nome": "Dias Macedo",
+      "latitude": -3.788105,
+      "longitude": -38.5229712
+    },
+    {
+      "nome": "Parque Dois Irmãos",
+      "latitude": -3.8110843,
+      "longitude": -38.5481015
+    },
+    {
+      "nome": "Passaré",
+      "latitude": -3.8131176,
+      "longitude": -38.5320551
+    },
+    {
+      "nome": "José Walter",
+      "latitude": -3.8399529,
+      "longitude": -38.5477935
+    },
+    {
+      "nome": "Planalto Ayrton Senna",
+      "latitude": -3.8352124,
+      "longitude": -38.5725796
+    },
+    {
+      "nome": "Barroso",
+      "latitude": -3.8217147,
+      "longitude": -38.5125515
+    },
+    {
+      "nome": "Cajazeiras",
+      "latitude": -3.8036185,
+      "longitude": -38.5086081
+    },
+    {
+      "nome": "Conjunto Palmeiras",
+      "latitude": -3.8487768,
+      "longitude": -38.5285908
+    },
+    {
+      "nome": "Jangurussu",
+      "latitude": -3.8480351,
+      "longitude": -38.5173956
+    },
+    {
+      "nome": "Ancuri",
+      "latitude": -3.8642041,
+      "longitude": -38.5060694
+    },
+    {
+      "nome": "Parque Santa Maria",
+      "latitude": -3.850924,
+      "longitude": -38.4995353
+    },
+    {
+      "nome": "Pedras",
+      "latitude": -3.8753663,
+      "longitude": -38.5120875
+    },
+    {
+      "nome": "Aracapé",
+      "latitude": -3.8307895,
+      "longitude": -38.5869684
+    },
+    {
+      "nome": "Canindezinho",
+      "latitude": -3.8125244,
+      "longitude": -38.6032973
+    },
+    {
+      "nome": "Conjunto Esperança",
+      "latitude": -3.8141532,
+      "longitude": -38.590863
+    },
+    {
+      "nome": "Novo Mondubim",
+      "latitude": -3.8064758,
+      "longitude": -38.5844079
+    },
+    {
+      "nome": "Parque Santa Rosa",
+      "latitude": -3.8197653,
+      "longitude": -38.594675
+    },
+    {
+      "nome": "Parque São José",
+      "latitude": -3.796962,
+      "longitude": -38.5886802
+    },
+    {
+      "nome": "Presidente Vargas",
+      "latitude": -3.7459952,
+      "longitude": -38.5368929
+    },
+    {
+      "nome": "Jardim Cearense",
+      "latitude": -3.8009335,
+      "longitude": -38.5664227
+    },
+    {
+      "nome": "Maraponga",
+      "latitude": -3.7934337,
+      "longitude": -38.5690832
+    },
+    {
+      "nome": "Mondubim",
+      "latitude": -3.819837,
+      "longitude": -38.5735617
+    },
+    {
+      "nome": "Vila Manoel Sátiro",
+      "latitude": -3.7982528,
+      "longitude": -38.5853935
+    },
+    {
+      "nome": "Bela Vista",
+      "latitude": -3.7516364,
+      "longitude": -38.5623662
+    },
+    {
+      "nome": "Couto Fernandes",
+      "latitude": -3.7600005,
+      "longitude": -38.5601416
+    },
+    {
+      "nome": "Demócrito Rocha",
+      "latitude": -3.7620432,
+      "longitude": -38.5653827
+    },
+    {
+      "nome": "Panamericano",
+      "latitude": -3.7557882,
+      "longitude": -38.5652199
+    },
+    {
+      "nome": "Pici",
+      "latitude": -3.7481817,
+      "longitude": -38.5747324
+    },
+    {
+      "nome": "Autran Nunes",
+      "latitude": -3.7537885,
+      "longitude": -38.5956926
+    },
+    {
+      "nome": "Dom Lustosa",
+      "latitude": -3.7526811,
+      "longitude": -38.5875716
+    },
+    {
+      "nome": "Henrique Jorge",
+      "latitude": -3.7623671,
+      "longitude": -38.5852866
+    },
+    {
+      "nome": "João XXIII",
+      "latitude": -3.770292,
+      "longitude": -38.5874703
+    },
+    {
+      "nome": "Jóquei Clube",
+      "latitude": -3.7672346,
+      "longitude": -38.5757129
+    },
+    {
+      "nome": "Conjunto Ceará I",
+      "latitude": -3.7672376,
+      "longitude": -38.6049803
+    },
+    {
+      "nome": "Conjunto Ceará II",
+      "latitude": -3.771533,
+      "longitude": -38.6093172
+    },
+    {
+      "nome": "Genibaú",
+      "latitude": -3.7581017,
+      "longitude": -38.6013313
+    },
+    {
+      "nome": "Centro",
+      "latitude": -3.7281287,
+      "longitude": -38.527412
+    },
+    {
+      "nome": "Moura Brasil",
+      "latitude": -3.7187126,
+      "longitude": -38.5346061
+    },
+    {
+      "nome": "Praia de Iracema",
+      "latitude": -3.7205595,
+      "longitude": -38.5084796
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Será que chove?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🌦️ Será que chove?</h1>
+    <p>Veja a previsão de chuva por bairro em Fortaleza</p>
+    <div class="busca">
+        <div class="input-container">
+          <div class="campo-autocomplete">
+            <input 
+              id="bairro" 
+              type="text" 
+              placeholder="Digite o bairro..." 
+              onkeyup="autocompletar()"
+              onkeydown="navegarSugestoes(event)"
+            />
+            <ul id="sugestoes" class="sugestoes"></ul>
+          </div>
+          <button onclick="buscar()">Consultar</button>
+        </div>
+    </div>
+    <div id="resultado"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

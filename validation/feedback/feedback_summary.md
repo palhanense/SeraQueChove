@@ -9,10 +9,6 @@ Este documento resume o feedback coletado através do formulário de avaliação
 *   **Interface:** Design simples, agradável e intuitivo.
 *   **Clareza:** As mensagens e cores utilizadas para indicar a probabilidade de chuva foram elogiadas por serem de fácil compreensão.
 
-## 💡 Sugestões de Melhoria
-
-*   **Mais Informações:** Alguns usuários sugeriram a inclusão de dados sobre temperatura.
-*   **Detalhamento:** Pedidos por previsões mais detalhadas (ex: hora a hora).
 
 ## 📝 Conclusão do Feedback
 
